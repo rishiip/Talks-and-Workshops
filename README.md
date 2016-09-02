@@ -1,2 +1,2 @@
-# Talks-and-Workshops
-Slides of my talks and workshops
+# Talks and Workshops
+This repository contains slides of my talks and workshops, categorized.
